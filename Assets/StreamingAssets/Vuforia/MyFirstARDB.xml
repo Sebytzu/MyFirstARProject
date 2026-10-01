@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="poza_d3" size="0.200000 0.295890" />
+    <ImageTarget name="gemini_generated_image_roy31proy31proy3" size="0.200000 0.144734" />
+  </Tracking>
+</QCARConfig>
