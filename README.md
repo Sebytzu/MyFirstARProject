@@ -5,7 +5,9 @@ Un proiect de Realitate Augmentată (AR) realizat în Unity folosind Vuforia Eng
 Când cutiile sunt aduse una lângă cealaltă, scriptul calculează distanța fizică și declanșează automat o animație de atac (Attack) între cele două creaturi.
 
 ## Video Demo
-https://github.com/user-attachments/assets/9dda59d4-b7cf-41b3-b491-a159eba06f1a
+https://github.com/user-attachments/assets/ac0dc96f-0df2-4fc6-9fb3-29ed5a92ac8c
+
+
 
 
 ## 🛠Tehnologii folosite
